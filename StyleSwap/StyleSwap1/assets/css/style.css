@@ -130,12 +130,12 @@
     box-sizing: border-box;
 }
 body {
-  background-color: #ffffff;
+  background-color: #000000;
   margin-bottom: 50px;
 }
 html, button, input, select, textarea {
     font-family: 'Montserrat', Helvetica, sans-serif;
-    color: #000000;
+    color: #ffffff;
 }
 h1 {
   text-align: center;
